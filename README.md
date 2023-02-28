@@ -1,0 +1,1 @@
+# AWS---Automated-waste-segregator
