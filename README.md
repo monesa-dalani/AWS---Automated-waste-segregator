@@ -10,3 +10,5 @@ microcontroller controls all the activity of sensors. Results have presented seg
 metal, wet and dry waste.
 The main goal of the project is to design and develop a sorting system that sorts and waste automatically
 into two categories namely dry waste, wet waste.
+
+https://youtu.be/jmVtmc5VPQw
